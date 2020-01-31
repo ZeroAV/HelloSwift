@@ -1,9 +1,9 @@
 # HelloSwift
 
 <p align="center">
-<img src="SS1.png" width="350" title="SS1">
-<img src="SS2.png" width="350" title="SS1">
-<img src="SS3.png" width="350" title="SS1">
+<img src="SS1.png" height="350" title="SS1">
+<img src="SS2.png" height="350" title="SS1">
+<img src="SS3.png" height="350" title="SS1">
 </p>
 
 ## Description
